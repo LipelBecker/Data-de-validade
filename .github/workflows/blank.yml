@@ -1,0 +1,4 @@
+/main.py          ← renomeamos de app.py
+/requirements.txt
+/credentials.json ← coloque aqui seu JSON da service account
+/templates/index.html
